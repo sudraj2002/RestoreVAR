@@ -1,2 +1,2 @@
 # RestoreVAR
-Code for RestoreVAR: Visual Autoregressive Generation for All-in-One Image Restoration
+Code for RestoreVAR: Visual Autoregressive Generation for All-in-One Image Restoration (Coming Soon!)
