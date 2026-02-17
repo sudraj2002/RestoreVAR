@@ -1,2 +1,4 @@
-# RestoreVAR
-Code for RestoreVAR: Visual Autoregressive Generation for All-in-One Image Restoration (Coming Soon!)
+# [ICLR-2026] RestoreVAR
+Code for RestoreVAR: Visual Autoregressive Generation for All-in-One Image Restoration accepted at ICLR-2026.
+
+Coming soon
