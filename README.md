@@ -3,6 +3,7 @@
 [Sudarshan Rajagopalan](https://sudraj2002.github.io/) | [Kartik Narayan](https://kartik-3004.github.io/portfolio/) | [Vishal M. Patel](https://scholar.google.com/citations?user=AkEXTbIAAAAJ&hl=en)
 
 [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://sudraj2002.github.io/restorevarpage/) [![PDF](https://img.shields.io/badge/OpenReview-Forum-blue)](https://openreview.net/pdf?id=yvXtCn2zfz) [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2505.18047) 
+
 Code for RestoreVAR: Visual Autoregressive Generation for All-in-One Image Restoration.
 
 ## Getting Started
