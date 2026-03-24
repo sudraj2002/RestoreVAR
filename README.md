@@ -94,3 +94,7 @@ If you found our work useful, please cite:
     url={https://openreview.net/forum?id=yvXtCn2zfz}
 }
 ```
+
+## Acknowledgments
+
+Our code uses parts from [VAR](https://github.com/FoundationVision/VAR) and [VARSR](https://github.com/quyp2000/VARSR). We thank the authors for sharing their codes!
